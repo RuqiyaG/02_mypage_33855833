@@ -15,6 +15,7 @@ http.createServer(function(req, res) {
            <h1><b>All About Me!/b></h1>
            <h2>My name is Ruqiya currently studying Creative Computing at Goldsmiths University of London and I have just started my second year. Excited to delve even deeper and gain some knowledge.</h2>
            <p>I orginally didnt have any experince with computers so when I did start First Year it was a bit overwhelming but I have learnt so much and made stuff that I never beleieved I could make</p>
+           <h6>Lets hope I can make really cool stuff.</h6>
         </body>
         </html>
     `);
